@@ -1,0 +1,7 @@
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%; /* Ustawienie promienia na 50% sprawi, że element będzie miał kształt okręgu */
+    border: none; /* Usunięcie ramki */
+}

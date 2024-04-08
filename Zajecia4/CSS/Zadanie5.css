@@ -1,0 +1,26 @@
+.wrapper {
+    text-align: center;
+    width: 500px;
+}
+
+.img {
+    float: left;
+    margin-right: 10px;
+    width: 20px;
+}
+
+.text {
+    overflow: hidden;
+}
+
+.el {
+    float: left;
+    margin: 0 10px;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+}
+li{
+    margin: 20px;
+}

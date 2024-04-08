@@ -1,0 +1,21 @@
+nav {
+    background-color: #f2f2f2;
+
+}
+nav ul {
+    list-style-type: none;
+    display: block;
+
+}
+li {
+    display: inline;
+    padding:  10px 20px;
+    margin: 0px auto;
+}
+a {
+    display: inline;
+    color: #333;
+    text-decoration: none;
+    padding: 10px 20px;
+    text-align: center;
+}
