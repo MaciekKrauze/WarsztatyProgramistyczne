@@ -1,0 +1,28 @@
+header, footer {
+    background-color: lightgrey;
+    display: flex;
+    justify-content: space-evenly;
+}
+main {
+    display: flex;
+    margin: 10px;
+}
+.combo {
+    display: flex;
+
+}
+.funkcja1, .funkcja2 {
+    width: 50%;
+}
+.funkcja1, .funkcja2, .funkcja3, .addition {
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+    margin: 10px;
+}
+.funkcje {
+    width: 50%;
+}
+h1{
+    width: 20%;
+}

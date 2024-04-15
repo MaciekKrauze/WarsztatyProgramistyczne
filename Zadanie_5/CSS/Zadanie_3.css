@@ -1,0 +1,20 @@
+.equal-width {
+    width: 33%;
+}
+.equal-width p, .fixed-percentage p, .flexible p {
+    display: flex;
+    justify-content: center;
+}
+.equal-width, .fixed-percentage, .flexible {
+    background-color: lightblue;
+    margin: 3px;
+}
+.row, .row2 {
+    display: flex;
+}
+.fixed-percentage {
+    width: 40%;
+}
+.flexible {
+    width: 60%;
+}
